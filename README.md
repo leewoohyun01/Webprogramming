@@ -33,9 +33,9 @@
 9. Week9
       + 9주차 연습
       + 웹스토리지
-            + 쿠기
-            + 세션 스토리지
-            + 스토리지 조작 코드 작성
+      + 쿠기
+      + 세션 스토리지
+      + 스토리지 조작 코드 작성
 10. Week10
       + 10주차 연습
       + 오디오, 비디오 제어, 웹워커
@@ -45,8 +45,8 @@
 11. Week11
       + 11주차 연습
       + 고급 자바스크립트
-            + data type
-            + hoisting, var, let, const
+      + data type
+      + hoisting, var, let, const
       + javascript 고급 구문을 가진 코드 작성
 12. Week12
 
