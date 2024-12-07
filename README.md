@@ -44,14 +44,19 @@
       + 오디오/비디오 제어기, 웹워커 생성 및 통신
 11. Week11
       + 11주차 연습
-      + 고급 자바스크립트
       + data type
       + hoisting, var, let, const
       + javascript 고급 구문을 가진 코드 작성
 12. Week12
-
+      + 12주차 연습
+      + Scope, Closure
+      + JS function
+      + functional programming
 13. Week13
-
+      + 13주차 연습
+      + Node.js 소개
+      + Node.js 기본 기능
+      + Module 활용 web server 만들기
 14. Week14
-
-15. Week15
+      + 14주차 연습
+      + Express js
